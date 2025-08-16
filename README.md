@@ -19,17 +19,17 @@ Full opcode tables available in [trabalho_T2.pdf](trabalho_T2.pdf) and [instruct
 - **Target**: FPGA synthesis-ready (tested on Artix-7).
 
 ## Repository Structure
-/ 
-├── sim/                   # Testbenches (VHDL)
-│   ├── ...
-│   └── ... 
-├── source/                # Core VHDL modules
-│   ├── ...
-│   └── ... 
-├── docs/                  # Specifications
-│   ├── trabalho_T2.pdf    # Project requirements
-│   └── instructions_1.pdf # Full instruction set 
-└─  README.md              # This file 
+/   
+├── sim/                   # Testbenches (VHDL)  
+│   ├── ...   
+│   └── ...   
+├── source/                # Core VHDL modules   
+│   ├── ...   
+│   └── ...   
+├── docs/                  # Specifications   
+│   ├── trabalho_T2.pdf    # Project requirements   
+│   └── instructions_1.pdf # Full instruction set   
+└─  README.md              # This file   
 
 ## Author
 
